@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:Password@manoj-t.mp3xtcr.mongodb.net/?retryWrites=true&w=majority
+      database: Student
+      
+server:
+  port: 9000
